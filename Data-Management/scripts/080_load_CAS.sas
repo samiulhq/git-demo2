@@ -2,7 +2,7 @@
 
 * host;
 cas casauto;
-
+caslib _ALL_ assign;
 * source caslib;
 %let DM_SRC=DM;
 
